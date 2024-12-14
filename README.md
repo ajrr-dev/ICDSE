@@ -3,7 +3,7 @@
 # Introduction to Computational Design for Structural Engineers
 
 Welcome to the repository for the course **Introduction to Computational Design for Structural Engineers**. This course provides students with the knowledge and tools to explore programming, computational geometry, and algorithmic design as applied to structural engineering challenges. The course combines theoretical foundations with practical exercises in Python (via Jupyter Notebook) and Dynamo for Revit scripting.
-No programming knowledge is expected but the course is oriented towards structural engineering bachelors so some knowledge in that field is expexcted.
+No prior programming knowledge is required; however, the course is designed for structural engineering bachelor students, so some familiarity with the field is expected.
 
 ## Course Tools and Technologies
 
