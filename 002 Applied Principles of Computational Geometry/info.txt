@@ -1,1 +1,2 @@
-
+Basics of vector mathematics and linear algebra from a programming point of view.
+Points. Lines. Planes and coordinate systems. Surfaces and Solids.
