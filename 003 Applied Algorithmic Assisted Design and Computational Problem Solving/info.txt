@@ -1,1 +1,2 @@
-
+Simple beam cross-section generation.
+Computational design of geometry. Optimization. Data extraction and plotting.
